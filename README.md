@@ -1,1 +1,1 @@
-# Medical-One
+My_mecical_project
